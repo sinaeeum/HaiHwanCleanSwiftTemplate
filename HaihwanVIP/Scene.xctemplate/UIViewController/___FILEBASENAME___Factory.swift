@@ -24,7 +24,7 @@ struct ___VARIABLE_sceneName___Factory {
     self.dependency = dependency
   }
 
-  func create(payload: Payload) {
+  func create(payload: Payload) -> ___VARIABLE_sceneName___ViewController {
     let viewController = ___VARIABLE_sceneName___ViewController()
 
     let presenter = ___VARIABLE_sceneName___Presenter()

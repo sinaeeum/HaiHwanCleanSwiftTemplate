@@ -74,20 +74,6 @@
 			<key>Type</key>
 			<string>static</string>
     </dict>
-    <dict>
-			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___WorkerTests</string>
-			<key>Description</key>
-			<string>The worker tests name</string>
-			<key>Identifier</key>
-			<string>workerTestsName</string>
-			<key>Name</key>
-			<string>Worker Tests Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-    </dict>
   </array>
   <key>Platforms</key>
   <array>

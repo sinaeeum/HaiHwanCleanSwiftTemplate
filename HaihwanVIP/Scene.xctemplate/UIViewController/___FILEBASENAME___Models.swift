@@ -6,6 +6,6 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-enum ___VARIABLE_sceneName___ {
+enum ___VARIABLE_sceneName___Models {
   
 }
