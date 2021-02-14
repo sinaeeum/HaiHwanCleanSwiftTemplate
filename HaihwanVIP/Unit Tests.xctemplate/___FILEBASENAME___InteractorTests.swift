@@ -31,7 +31,7 @@ final class ___VARIABLE_sceneName___InteractorTests: XCTestCase {
       worker: ___VARIABLE_sceneName___WorkerSpy(),
       presenter: ___VARIABLE_sceneName___PresenterSpy()
     )
-    let interactor = ___VARIABLE_sceneName___Interactor(
+    self.interactor = ___VARIABLE_sceneName___Interactor(
       dependency: self.dependency
     )
   }

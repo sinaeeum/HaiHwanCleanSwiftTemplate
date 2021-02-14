@@ -15,7 +15,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: class {
 final class ___VARIABLE_sceneName___ViewController: BaseViewController {
 
   var interactor: ___VARIABLE_sceneName___BusinessLogic?
-  var router: (___VARIABLE_sceneName___RoutingLogic & ___VARIABLE_sceneName___DataPassing)?
+  var router: ___VARIABLE_sceneName___RoutingLogic?
 
   
 }
