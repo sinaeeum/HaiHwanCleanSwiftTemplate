@@ -19,12 +19,12 @@ protocol ___VARIABLE_sceneName___DataStore: class {
 final class ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___DataStore {
 
   struct Dependency {
-    let worker: ___VARIABLE_sceneName___Worker
+    let worker: ___VARIABLE_sceneName___WorkerLogic
     let presenter: ___VARIABLE_sceneName___PresentationLogic
   }
 
   let presenter: ___VARIABLE_sceneName___PresentationLogic
-  let worker: ___VARIABLE_sceneName___Worker
+  let worker: ___VARIABLE_sceneName___WorkerLogic
 
   init(dependency: Dependency) {
     self.worker = dependency.worker
