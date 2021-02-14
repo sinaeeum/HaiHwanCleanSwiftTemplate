@@ -133,12 +133,6 @@
 			<string>YES</string>
 			<key>Type</key>
 			<string>class</string>
-			<key>Values</key>
-			<array>
-				<string>UIViewController</string>
-				<string>UITableViewController</string>
-				<string>UICollectionViewController</string>
-			</array>
 		</dict>
   </array>
   <key>Platforms</key>
